@@ -2,7 +2,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalgos&show_icons=true&theme=shadow_blue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metalgos&layout=compact)](https://github.com/metalgos/github-readme-stats)
 <!--
 **metalgos/metalgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
