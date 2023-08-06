@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Java%20개발자%20김용선%20입니다&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalgos&show_icons=true&theme=shadow_blue)
