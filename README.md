@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalgos&show_icons=true&theme=shadow_blue)
 
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+
 <!--
 **metalgos/metalgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
