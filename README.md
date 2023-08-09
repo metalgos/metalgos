@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalgos&show_icons=true&theme=shadow_blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metalgos&layout=compact)](https://github.com/metalgos/github-readme-stats)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
