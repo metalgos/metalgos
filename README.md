@@ -29,13 +29,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div>
  
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Git%20hub-black?style=flat-square&logo=github&link=https://github.com/metalgos)](https://github.com/metalgos)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metalgos2@gmail.com)](mailto:metalgos2@gmail.com)
 
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="41" height="41" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" /></div>
 
 
 <!--
