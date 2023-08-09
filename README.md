@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&fontColor=gradient&height=200&section=header&animation=twinkling&text=Java%20개발자%20김용선%20입니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&fontColor=ffffffff&height=200&section=header&animation=twinkling&text=Java%20개발자%20김용선%20입니다&fontSize=50)
 
 
 
