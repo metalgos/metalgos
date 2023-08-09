@@ -8,6 +8,7 @@
 
 # 💪Skills
 ### Platforms & Languages
+#https://simpleicons.org/ 사이트주소
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -32,6 +33,7 @@
 
 
 ## Main Skill
+#https://techstack-generator.vercel.app/ 사이트주소
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
 
  
