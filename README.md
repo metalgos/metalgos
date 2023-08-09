@@ -30,7 +30,7 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
-
+##Main Language
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
  
 # :mailbox_with_mail: Contacts
