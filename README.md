@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&fontColor=ffffffff&height=200&section=header&animation=twinkling&text=Java%20개발자%20김용선%20입니다&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&fontColor=ffffffff&height=200&section=header&animation=twinkling&text=Java%20개발자%20김용선%20입니다&fontSize=50&fontAlignY=50)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalgos&show_icons=true&theme=shadow_blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metalgos&layout=compact)](https://github.com/metalgos/github-readme-stats)
